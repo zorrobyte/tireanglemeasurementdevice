@@ -1,7 +1,7 @@
 ## This project is dead
 Factory Steering Ratio for 2019 Prius Prime has been confirmed as 13.4 per the mfgr.
 
-The idea was to put two lazy susan bearings inbetween two pieces of wood and measure angle via the encoder. This should be easy to do if you know how to use an arduino.
+The idea was to put two lazy susan bearings inbetween two pieces of wood and measure angle via an encoder. This should be easy to do if you know how to use an arduino.
 
 # tireanglemeasurementdevice
 A device to measure a vehicle's tire angle in relation to the steering angle for accurate steer ratio specification.
